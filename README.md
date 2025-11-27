@@ -14,7 +14,7 @@ Over time, I’ve developed a strong interest in data — not just managing it, 
 - 📞 Mobile: +91 8688221370
 - 📍 Location: Hyderabad
 
-##🛠️ Core Skills
+## 🛠️ Core Skills
 
 • Excel (Advanced)
 
@@ -36,7 +36,9 @@ Over time, I’ve developed a strong interest in data — not just managing it, 
 Accounts Specialist | Mondee Tech Pvt Ltd, Hyderabad (Apr 2024 - Present)
 
 ✅ Ensure accuracy of B2B global flight sales data through daily quality checks, validation, and adjustments.
+
 ✅ Generate weekly agency statements, resolve discrepancies via ticketing, and refine processes to reduce errors.
+
 ✅ Collaborate with internal teams to troubleshoot complex issues and support smooth settlement operations.
 
 
